@@ -13,10 +13,12 @@ public class NombreDecimal {
     }
 
     public String en_romain() {
-    	if(valeur == 1)	return "I";
-    	if(valeur == 2) return "II";
-    	if(valeur == 3) return "III";
-    	if(valeur == 4) return "IV";
-    	else return "";
+    	String[] nombreRomain = new String[5];
+    	nombreRomain[0] = "";
+    	nombreRomain[1] = "I";
+    	nombreRomain[2] = "II";
+    	nombreRomain[3] = "III";
+    	nombreRomain[4] = "IV";
+    	return nombreRomain[valeur];
     }
 }
