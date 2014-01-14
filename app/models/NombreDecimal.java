@@ -19,6 +19,7 @@ public class NombreDecimal {
     	nombreRomain[2] = "II";
     	nombreRomain[3] = "III";
     	nombreRomain[4] = "IV";
+    	nombreRomain[5] = "V";
     	return nombreRomain[valeur];
     }
 }
