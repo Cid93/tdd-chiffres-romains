@@ -16,6 +16,7 @@ public class NombreDecimal {
     	if(valeur == 1)	return "I";
     	if(valeur == 2) return "II";
     	if(valeur == 3) return "III";
+    	if(valeur == 4) return "IV";
     	else return "";
     }
 }
