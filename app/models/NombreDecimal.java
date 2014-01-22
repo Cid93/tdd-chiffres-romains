@@ -38,7 +38,27 @@ public class NombreDecimal {
         "XVII",
         "XVIII",
         "XIX",
-        "XX"
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXIX",
+        "XXX",
+        "XXXI",
+        "XXXII",
+        "XXXIII",
+        "XXXIV",
+        "XXXV",
+        "XXXVI",
+        "XXXVII",
+        "XXXVIII",
+        "XXXIX",
+        "XL"
     };
 
     String en_romain_unites(int n){
