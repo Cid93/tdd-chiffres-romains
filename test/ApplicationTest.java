@@ -37,6 +37,7 @@ public class ApplicationTest {
     public void romain_unites() {
 	assert_en_romain(0,"");
 	assert_en_romain(1,"I");
+<<<<<<< HEAD
 	assert_en_romain(2, "II");
 	assert_en_romain(3, "III");
 	assert_en_romain(4, "IV");
@@ -45,5 +46,11 @@ public class ApplicationTest {
 	assert_en_romain(7, "VII");
 	assert_en_romain(8, "VIII");
 	assert_en_romain(9, "IX");
+=======
+	assert_en_romain(2,"II");
+	assert_en_romain(3,"III");
+	assert_en_romain(4,"IV");
+	assert_en_romain(5,"V");
+>>>>>>> binome/master
     }
 }
