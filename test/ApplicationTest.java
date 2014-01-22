@@ -45,5 +45,16 @@ public class ApplicationTest {
 		assert_en_romain(7, "VII");
 		assert_en_romain(8, "VIII");
 		assert_en_romain(9, "IX");
+		assert_en_romain(10, "X");
+		assert_en_romain(11, "XI");
+		assert_en_romain(12, "XII");
+		assert_en_romain(13, "XIII");
+		assert_en_romain(14, "XIV");
+		assert_en_romain(15, "XV");
+		assert_en_romain(16, "XVI");
+		assert_en_romain(17, "XVII");
+		assert_en_romain(18, "XVIII");
+		assert_en_romain(19, "XIX");
+		assert_en_romain(20, "XX");
     }
 }
